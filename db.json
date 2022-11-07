@@ -173,33 +173,33 @@
   "tags": [
     {
       "id": 1,
-      "name": "Animals",
-      "slug": "animals"
+      "name": "Everyday Cooking",
+      "slug": "everyday-cooking"
     },
     {
       "id": 2,
-      "name": "Nature",
-      "slug": "nature"
+      "name": "Desserts",
+      "slug": "desserts"
     },
     {
       "id": 3,
-      "name": "Food",
-      "slug": "food"
+      "name": "Cuisine",
+      "slug": "cuisine"
     },
     {
       "id": 4,
-      "name": "Life style",
-      "slug": "life-style"
+      "name": "Soups",
+      "slug": "soups"
     },
     {
       "id": 5,
-      "name": "Travel",
-      "slug": "travel"
+      "name": "Breakfast",
+      "slug": "breakfast"
     },
     {
       "id": 6,
-      "name": "Sports",
-      "slug": "sports"
+      "name": "Drinks",
+      "slug": "drinks"
     }
   ],
   "comments": [
