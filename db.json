@@ -254,6 +254,11 @@
       "id": 3,
       "name": "Obi-Wan",
       "lastName": "Kenobi"
+    },
+    {
+      "id":4,
+      "name": "Pedro",
+      "lastName": "Navaja"
     }
   ]
 }
