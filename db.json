@@ -173,33 +173,33 @@
   "tags": [
     {
       "id": 1,
-      "name": "Everyday Cooking",
-      "slug": "everyday-cooking"
+      "name": "Fight",
+      "slug": "fight"
     },
     {
       "id": 2,
-      "name": "Desserts",
-      "slug": "desserts"
+      "name": "Short Range",
+      "slug": "short-range"
     },
     {
       "id": 3,
-      "name": "Cuisine",
-      "slug": "cuisine"
+      "name": "Melee",
+      "slug": "melee"
     },
     {
       "id": 4,
-      "name": "Soups",
-      "slug": "soups"
+      "name": "Mage",
+      "slug": "Mage"
     },
     {
       "id": 5,
-      "name": "Breakfast",
-      "slug": "breakfast"
+      "name": "Archer",
+      "slug": "archer"
     },
     {
       "id": 6,
-      "name": "Drinks",
-      "slug": "drinks"
+      "name": "Tank",
+      "slug": "tank"
     }
   ],
   "comments": [
